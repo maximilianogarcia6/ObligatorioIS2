@@ -20,3 +20,6 @@ Defectos encontrado:
 
 No hay documentación ni de casos de uso ni especificación de requerimientos.
 Esto debe quedar documentado.
+
+
+Revisar boton "End turn", se encontró situaciones en que es innecesario hacer finalizar turno cuando ya no te queda mas acciones por hacer.
