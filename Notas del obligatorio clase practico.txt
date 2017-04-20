@@ -1,19 +1,22 @@
-tuvimos que hacer un proyecto vacio en netbeans y copiar la carpeta src para poder abrirlo y ejecutarlo en dicha herramienta
+Tuvimos que hacer un proyecto vacio en netbeans y copiar la carpeta src para poder abrirlo y ejecutarlo en dicha herramienta
 En eclipse abre de forma nativa
 
-Se debe utilizar al menos tres herramientas y compararlas entre sÌ.
+Se debe utilizar al menos tres herramientas y compararlas entre s√≠.
 
-Tiempo de instalaciÛn de herramientas - 2 horas
+Tiempo de instalaci√≥n de herramientas - 2 horas
 
-El paquete de test arrojÛ problemas al faltar la libreria Junit. Se realizÛ la importaciÛn de la misma
+El paquete de test arroj√≥ problemas al faltar la libreria Junit. Se realiz√≥ la importaci√≥n de la misma
 
 Usabilidad: en pcs con altas resoluciones (4k) la interfaz se ve muy chica y apenas se distinguen las letras.
 
-Usaremos GIT como repositorio ya que es distribuido y gratis, ademas de ser la herramienta estudiada en cursos pasados. Para registro de incidentes usamos github ya que viene integrada al manejo del repositorio. Descartamos otras herramientas como mantis, redmine o bugzilla ya que requiere un tiempo de instalaciÛn y configuraciÛn al tener que montar un servidor web, adem·s de tener estas ultimas la desventaja de ser para trabajo local, frente a github que est· en internet.
+Usaremos GIT como repositorio ya que es distribuido y gratis, ademas de ser la herramienta estudiada en cursos pasados. Para registro de incidentes usamos github ya que viene integrada al manejo del repositorio. Descartamos otras herramientas como mantis, redmine o bugzilla ya que requiere un tiempo de instalaci√≥n y configuraci√≥n al tener que montar un servidor web, adem√°s de tener estas ultimas la desventaja de ser para trabajo local, frente a github que est√° en internet.
 
-Asumimos para el juego las reglas del juego monopoly (ver PDF en lÌnea).
+Asumimos para el juego las reglas del juego monopoly (ver PDF en l√≠nea).
 
 Defectos encontrado:
 * Si caes en la carcel no salis mas
 
 -> Para todos los errores se debe especificar con que caso de prueba lo hubiesemos detectado, especificando si seria testing de caja blanca o de caja negra.
+
+No hay documentaci√≥n ni de casos de uso ni especificaci√≥n de requerimientos.
+Esto debe quedar documentado.
